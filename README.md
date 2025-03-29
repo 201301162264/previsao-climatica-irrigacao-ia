@@ -1,6 +1,8 @@
-# Controle de Irrigação Inteligente: Uma Solução Baseada em IA
+# Previsão Climática e Controle de Irrigação Inteligente: Uma Solução Baseada em IA
 
 ## Metodologia para Predição de Necessidade de Irrigação
+
+`Este estudo foi conduzido com o objetivo de desenvolver um modelo preditivo para irrigação automática utilizando dados climáticos históricos coletados pelo Instituto Nacional de Meteorologia. Contudo, durante o desenvolvimento deste estudo e após a leitura dos trabalhos relacionados, identificamos que mais variáveis seriam necessárias para otimizar o controle automatizado de irrigação.`
 
 A metodologia descrita no código visa desenvolver um sistema automatizado para a previsão da necessidade de irrigação em uma fazenda com base em características do solo, dados climáticos, e informações adicionais sobre a fazenda (como uso de água, pesticidas e fertilizantes). O sistema utiliza técnicas de **modelagem preditiva**, **análise espacial** e **lógica condicional** para determinar se a irrigação é necessária, promovendo uma gestão eficiente dos recursos hídricos.
 
